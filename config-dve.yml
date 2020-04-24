@@ -1,5 +1,2 @@
-zwg-520
-/
-springcloud配置
-/
-config-dve
+config:
+  info:zwg-520/springcloud-confg/config-dve.yml
